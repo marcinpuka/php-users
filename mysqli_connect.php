@@ -20,9 +20,9 @@ $dbc = @mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME);
 */
 
 
-DEFINE('DB_USER', 'root');
-DEFINE('DB_PASSWORD', 'marcinpass');
-DEFINE('DB_HOST', 'localhost');
+DEFINE('DB_USER', 'bcaca891473502');
+DEFINE('DB_PASSWORD', '0e657a18');
+DEFINE('DB_HOST', 'us-cdbr-iron-east-05.cleardb.net');
 DEFINE('DB_NAME', 'forum2');
 
 
