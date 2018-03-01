@@ -23,7 +23,7 @@ $dbc = @mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME);
 DEFINE('DB_USER', 'bcaca891473502');
 DEFINE('DB_PASSWORD', '0e657a18');
 DEFINE('DB_HOST', 'us-cdbr-iron-east-05.cleardb.net');
-DEFINE('DB_NAME', 'forum2');
+DEFINE('DB_NAME', 'heroku_8f2b5c6a8d98edb');
 
 
 $dbc = @mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME)
